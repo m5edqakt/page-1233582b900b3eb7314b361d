@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "232281c1865135957827807f",
+  "owner": "m5edqakt",
+  "repo": "page-1233582b900b3eb7314b361d",
+  "title": "ByWave",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1233582b900b3eb7314b361d",
+      "a": "ByWave",
+      "b": "稳定全球clash加速器",
+      "entity": "ByWave",
+      "brand": "ByWave",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2eeb955ba60c7b14a10b32a0ef36cb2990f0e013aef70910895229474ffecd6a",
+      "content": {
+        "primary_entity": "ByWave",
+        "keyword1": "ByWave",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕订阅导入、套餐对比与客户端适配展开，帮助用户按设备数量、月流量和专线需求挑选基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "按设备与用量选全球加速方案",
+          "AI_HERO_INTRO": "ByWave 提供多档全球网络加速订阅，覆盖基础流媒体解锁、IPLC 专线游戏优化与高带宽节点。选择套餐时先确认设备数量与月流量需求，再按客户端文档导入订阅。",
+          "AI_VISUAL_TITLE": "ByWave 全球加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "基础版月付¥15含100GB",
+          "AI_HIGHLIGHT_3": "旗舰版支持5台设备同时在线",
+          "AI_FEATURES_TITLE": "套餐选择与适配要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模与线路类型三个角度评估需求，再决定订阅档位与计费周期。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，按常用设备总数匹配。",
+          "AI_FEATURE_TITLE_2": "按流量估算周期",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版300GB，团队版1000GB，轻度用户按月付更灵活。",
+          "AI_FEATURE_TITLE_3": "按用途看线路",
+          "AI_FEATURE_TEXT_3": "流媒体需求选旗舰版全节点解锁，游戏与低延迟场景关注 IPLC 专线优化。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备使用的客户端不同，导入订阅的方式也有差异，请参考对应客户端文档。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确认需求与套餐，再核对设备适配情况，最后按客户端说明导入订阅。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选定订阅档位。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认所用设备的操作系统与客户端类型，查看套餐权益是否覆盖当前使用场景。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照对应客户端的配置说明完成导入并连接节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选档，顺畅连接",
+          "AI_CLOSING_TEXT": "先明确设备数与月流量，再对照套餐权益完成订阅导入。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "ByWave 有哪些套餐档位？",
+          "AI_FAQ_ANSWER_1": "共三档：基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FAQ_QUESTION_2": "套餐可以按月还是按年付费？",
+          "AI_FAQ_ANSWER_2": "三档套餐均支持月付与年付。按年付费折算后月均价格更低，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_3": "不同设备如何导入订阅？",
+          "AI_FAQ_ANSWER_3": "请先根据设备系统选择对应客户端，再参考该客户端的订阅配置文档，将节点信息导入后即可使用。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版有什么主要区别？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量从 100GB 提升至 300GB，设备数从 3 台增至 5 台，并包含 IPLC 专线与优先工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 节点与企业定制路由，适合多人协作或小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wangshuaia9.cn",
+    "host": "wangshuaia9.cn"
+  },
+  "file_hashes": {
+    "index.html": "cdd18fad21a66fe280c69975b437855f80306f3556fcd18b218299239569bbbf",
+    "sitemap.xml": "67219c2704a85e5cfb2398d11620b971ff5d9768c8338253100b96fe64bea52b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "db35b8fcf358f5436c6576bb38ef34281e344e0dc34d1951a8bfc331a00bba04",
+    "robots.txt": "846317e5d07e316c4965c0dc73745cd04b8db9b1b378eef663b68727b70b94b2",
+    "7d19edc0184613ef58a127fb02108be9.txt": "d52b890ad7d28641658c6f19382bc292d72b1e5d7dc681b96e8b4951100689c1"
+  },
+  "revision": "895748258165b361d84017a459162908d80f7395021e4ecb95f91ff9b895522e"
+}
